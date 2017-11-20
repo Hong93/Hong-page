@@ -1,0 +1,14 @@
+C:\Users\USER\Downloads\wpf-propertygrid-master\wpf-propertygrid-master\demo\bin\Debug\WpfPropertyGrid_Demo.exe
+C:\Users\USER\Downloads\wpf-propertygrid-master\wpf-propertygrid-master\demo\bin\Debug\WpfPropertyGrid_Demo.pdb
+C:\Users\USER\Downloads\wpf-propertygrid-master\wpf-propertygrid-master\demo\obj\x86\Debug\WpfPropertyGrid_Demo.csprojResolveAssemblyReference.cache
+C:\Users\USER\Downloads\wpf-propertygrid-master\wpf-propertygrid-master\demo\obj\x86\Debug\MainWindow.g.cs
+C:\Users\USER\Downloads\wpf-propertygrid-master\wpf-propertygrid-master\demo\obj\x86\Debug\App.g.cs
+C:\Users\USER\Downloads\wpf-propertygrid-master\wpf-propertygrid-master\demo\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\USER\Downloads\wpf-propertygrid-master\wpf-propertygrid-master\demo\obj\x86\Debug\WpfPropertyGrid_Demo_MarkupCompile.cache
+C:\Users\USER\Downloads\wpf-propertygrid-master\wpf-propertygrid-master\demo\obj\x86\Debug\WpfPropertyGrid_Demo_MarkupCompile.lref
+C:\Users\USER\Downloads\wpf-propertygrid-master\wpf-propertygrid-master\demo\obj\x86\Debug\MainWindow.baml
+C:\Users\USER\Downloads\wpf-propertygrid-master\wpf-propertygrid-master\demo\obj\x86\Debug\WpfPropertyGrid_Demo.g.resources
+C:\Users\USER\Downloads\wpf-propertygrid-master\wpf-propertygrid-master\demo\obj\x86\Debug\WpfPropertyGrid_Demo.Properties.Resources.resources
+C:\Users\USER\Downloads\wpf-propertygrid-master\wpf-propertygrid-master\demo\obj\x86\Debug\WpfPropertyGrid_Demo.csproj.GenerateResource.Cache
+C:\Users\USER\Downloads\wpf-propertygrid-master\wpf-propertygrid-master\demo\obj\x86\Debug\WpfPropertyGrid_Demo.exe
+C:\Users\USER\Downloads\wpf-propertygrid-master\wpf-propertygrid-master\demo\obj\x86\Debug\WpfPropertyGrid_Demo.pdb

@@ -1,0 +1,47 @@
+﻿2017-11-08 08:00:01,880 DEBUG [8] WiseScopeDemo.New.NewMainWindow.Window_Loaded - On
+2017-11-08 08:00:04,796 DEBUG [8] WiseScopeDemo.New.NewMainWindow.buttonMals_Click - buttonMals Click
+2017-11-08 08:00:06,462 DEBUG [8] WiseScopeDemo.New.NewMainWindow.MenuItemExit_Click - Off
+
+2017-11-08 10:35:14,963 DEBUG [10] WiseScopeDemo.New.NewMainWindow.Window_Loaded - On
+2017-11-08 10:35:17,100 DEBUG [10] WiseScopeDemo.New.NewMainWindow.buttonMals_Click - Mals Controller
+2017-11-08 10:35:19,666 DEBUG [10] WiseScopeDemo.New.Pages.PageAll.StepChangebtn_Click - MALS Step Change
+2017-11-08 10:35:32,193 DEBUG [10] WiseScopeDemo.New.Pages.PageAll.coaxialtimesend_Click - MALS Coaxial LED On Time Set
+2017-11-08 10:35:32,668 DEBUG [10] WiseScopeDemo.New.Pages.PageAll.ringtimesend_Click - MALS Ring LED On Time Set
+2017-11-08 10:35:33,612 DEBUG [10] WiseScopeDemo.New.NewMainWindow.buttonLighting_Click - Lighting Controller
+2017-11-08 10:35:39,782 DEBUG [10] WiseScopeDemo.New.Pages.PageAll.LED2BrightChangebtn_Click - Lighting LED2 Bright Set
+2017-11-08 10:35:43,147 DEBUG [10] WiseScopeDemo.New.Pages.PageAll.Strobe_Click - Get Lighting Strobe Status
+2017-11-08 10:35:43,800 DEBUG [10] WiseScopeDemo.New.Pages.PageAll.MarkingOn_Click - Lighting Marking Start
+2017-11-08 10:35:44,909 DEBUG [10] WiseScopeDemo.New.Pages.PageAll.MarkingStop_Click - Lighting Marking Stop
+2017-11-08 10:35:45,790 DEBUG [10] WiseScopeDemo.New.Pages.PageAll.SolenoidOn_Click - Lighting Solenoid On
+2017-11-08 10:35:48,880 DEBUG [10] WiseScopeDemo.New.Pages.PageAll.Reset_Click - Lighting Software Reset
+2017-11-08 10:35:49,919 DEBUG [10] WiseScopeDemo.New.NewMainWindow.buttonSerial_Click - Serial Communication
+2017-11-08 10:35:56,808 DEBUG [10] WiseScopeDemo.New.NewMainWindow.buttonLighting_Click - Lighting Controller
+2017-11-08 10:36:00,341 DEBUG [10] WiseScopeDemo.New.NewMainWindow.buttonMals_Click - Mals Controller
+2017-11-08 10:36:02,953 DEBUG [10] WiseScopeDemo.New.NewMainWindow.buttonMain_Click - Main Page
+2017-11-08 10:36:04,048 DEBUG [10] WiseScopeDemo.New.NewMainWindow.buttonMals_Click - Mals Controller
+2017-11-08 10:36:04,374 DEBUG [10] WiseScopeDemo.New.NewMainWindow.buttonSerial_Click - Serial Communication
+2017-11-08 10:36:09,744 DEBUG [10] WiseScopeDemo.New.NewMainWindow.MenuItemRegistry_Click - Registry Data
+2017-11-08 10:36:11,862 DEBUG [10] WiseScopeDemo.New.NewMainWindow.MenuItemWinFormPropertyGrid_Click - Winform PropertyGrid
+2017-11-08 10:36:21,286 DEBUG [10] WiseScopeDemo.New.NewMainWindow.MenuItemLoad_Click - Xml Load
+2017-11-08 10:36:24,921 DEBUG [10] WiseScopeDemo.New.NewMainWindow.MenuItemExit_Click - Off
+
+2017-11-08 13:34:16,832 DEBUG [10] WiseScopeDemo.New.NewMainWindow.Window_Loaded - On
+2017-11-08 13:35:04,219 DEBUG [10] WiseScopeDemo.New.NewMainWindow.Window_Closed - Off
+
+2017-11-08 13:36:27,364 DEBUG [9] WiseScopeDemo.New.NewMainWindow.Window_Loaded - On
+2017-11-08 13:38:35,572 DEBUG [10] WiseScopeDemo.New.NewMainWindow.Window_Loaded - On
+2017-11-08 13:46:02,092 DEBUG [9] WiseScopeDemo.New.NewMainWindow.Window_Loaded - On
+2017-11-08 13:47:10,553 DEBUG [9] WiseScopeDemo.New.NewMainWindow.Window_Loaded - On
+2017-11-08 13:56:37,605 DEBUG [9] WiseScopeDemo.New.NewMainWindow.Window_Loaded - On
+2017-11-08 13:56:50,823 DEBUG [10] WiseScopeDemo.New.NewMainWindow.Window_Loaded - On
+2017-11-08 14:02:11,383 DEBUG [8] WiseScopeDemo.New.NewMainWindow.Window_Loaded - On
+2017-11-08 14:10:46,434 DEBUG [8] WiseScopeDemo.New.NewMainWindow.Window_Loaded - On
+2017-11-08 14:12:25,835 DEBUG [9] WiseScopeDemo.New.NewMainWindow.Window_Loaded - On
+2017-11-08 14:14:00,599 DEBUG [9] WiseScopeDemo.New.NewMainWindow.Window_Loaded - On
+2017-11-08 14:19:19,430 DEBUG [9] WiseScopeDemo.New.NewMainWindow.Window_Loaded - On
+2017-11-08 14:28:13,813 DEBUG [10] WiseScopeDemo.New.NewMainWindow.Window_Loaded - On
+2017-11-08 14:28:31,112 DEBUG [10] WiseScopeDemo.New.NewMainWindow.MenuItemExit_Click - Off
+
+2017-11-08 14:29:24,337 DEBUG [9] WiseScopeDemo.New.NewMainWindow.Window_Loaded - On
+2017-11-08 14:40:07,561 DEBUG [9] WiseScopeDemo.New.NewMainWindow.Window_Closed - Off
+

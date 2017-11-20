@@ -1,0 +1,33 @@
+﻿2017-11-01 08:41:24,361 DEBUG [9] WiseScopeDemo.New.NewMainWindow.Window_Loaded - On
+2017-11-01 08:41:29,478 DEBUG [9] WiseScopeDemo.New.NewMainWindow.buttonMals_Click - buttonMals Click
+2017-11-01 08:41:30,548 DEBUG [9] WiseScopeDemo.New.NewMainWindow.buttonLighting_Click - buttonLighting_Click
+2017-11-01 08:41:35,861 DEBUG [9] WiseScopeDemo.New.NewMainWindow.MenuItemPropertyGrid_Click - MenuItemPropertyGrid_Click
+2017-11-01 09:56:05,691 DEBUG [9] WiseScopeDemo.New.NewMainWindow.Window_Loaded - On
+2017-11-01 09:58:22,372 DEBUG [9] WiseScopeDemo.New.NewMainWindow.Window_Loaded - On
+2017-11-01 09:58:32,654 DEBUG [9] WiseScopeDemo.New.NewMainWindow.MenuItemExit_Click - Off
+
+2017-11-01 10:01:38,311 DEBUG [9] WiseScopeDemo.New.NewMainWindow.Window_Loaded - On
+2017-11-01 16:02:35,607 DEBUG [10] WiseScopeDemo.New.NewMainWindow.Window_Loaded - On
+2017-11-01 16:02:48,085 DEBUG [10] WiseScopeDemo.New.NewMainWindow.buttonMals_Click - buttonMals Click
+2017-11-01 16:02:49,585 DEBUG [10] WiseScopeDemo.New.NewMainWindow.buttonMals_Click - buttonMals Click
+2017-11-01 16:02:51,247 DEBUG [10] WiseScopeDemo.New.NewMainWindow.buttonLighting_Click - buttonLighting_Click
+2017-11-01 16:02:55,849 DEBUG [10] WiseScopeDemo.New.NewMainWindow.buttonMals_Click - buttonMals Click
+2017-11-01 16:03:10,303 DEBUG [8] WiseScopeDemo.New.NewMainWindow.Window_Loaded - On
+2017-11-01 16:03:12,195 DEBUG [8] WiseScopeDemo.New.NewMainWindow.buttonMals_Click - buttonMals Click
+2017-11-01 16:03:24,238 DEBUG [10] WiseScopeDemo.New.NewMainWindow.Window_Loaded - On
+2017-11-01 16:03:26,232 DEBUG [10] WiseScopeDemo.New.NewMainWindow.buttonMals_Click - buttonMals Click
+2017-11-01 16:03:50,137 DEBUG [10] WiseScopeDemo.New.NewMainWindow.Window_Loaded - On
+2017-11-01 16:03:52,312 DEBUG [10] WiseScopeDemo.New.NewMainWindow.buttonMals_Click - buttonMals Click
+2017-11-01 16:04:09,529 DEBUG [10] WiseScopeDemo.New.NewMainWindow.buttonLighting_Click - buttonLighting_Click
+2017-11-01 16:04:47,444 DEBUG [10] WiseScopeDemo.New.NewMainWindow.buttonMals_Click - buttonMals Click
+2017-11-01 16:11:15,707 DEBUG [9] WiseScopeDemo.New.NewMainWindow.Window_Loaded - On
+2017-11-01 16:11:23,109 DEBUG [9] WiseScopeDemo.New.NewMainWindow.buttonMals_Click - buttonMals Click
+2017-11-01 16:11:23,897 DEBUG [9] WiseScopeDemo.New.NewMainWindow.buttonLighting_Click - buttonLighting_Click
+2017-11-01 16:11:25,750 DEBUG [9] WiseScopeDemo.New.NewMainWindow.MenuItemPropertyGrid_Click - MenuItemPropertyGrid_Click
+2017-11-01 16:12:22,708 DEBUG [9] WiseScopeDemo.New.NewMainWindow.Window_Loaded - On
+2017-11-01 16:15:50,185 DEBUG [8] WiseScopeDemo.New.NewMainWindow.Window_Loaded - On
+2017-11-01 16:19:19,461 DEBUG [8] WiseScopeDemo.New.NewMainWindow.Window_Loaded - On
+2017-11-01 16:39:46,356 DEBUG [9] WiseScopeDemo.New.NewMainWindow.Window_Loaded - On
+2017-11-01 16:40:03,029 DEBUG [10] WiseScopeDemo.New.NewMainWindow.Window_Loaded - On
+2017-11-01 16:41:09,785 DEBUG [8] WiseScopeDemo.New.NewMainWindow.Window_Loaded - On
+2017-11-01 16:43:11,228 DEBUG [9] WiseScopeDemo.New.NewMainWindow.Window_Loaded - On
