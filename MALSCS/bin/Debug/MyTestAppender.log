@@ -1,0 +1,7 @@
+﻿2017-11-16 14:21:29,716 DEBUG [9] WiseScopeDemo.New.NewMainWindow.Window_Loaded - On
+2017-11-16 15:11:57,766 DEBUG [9] WiseScopeDemo.New.NewMainWindow.buttonSerial_Click - Serial Communication
+2017-11-16 15:12:00,832 DEBUG [9] WiseScopeDemo.New.NewMainWindow.buttonSerial_Click - Serial Communication
+2017-11-16 15:12:03,456 DEBUG [9] WiseScopeDemo.New.NewMainWindow.MenuItemHelp_Click - Help MenuItem Click
+2017-11-16 15:12:18,946 DEBUG [8] WiseScopeDemo.New.NewMainWindow.Window_Loaded - On
+2017-11-16 15:12:23,524 DEBUG [8] WiseScopeDemo.New.NewMainWindow.buttonMals_Click - Mals Controller
+2017-11-16 15:12:32,132 DEBUG [8] WiseScopeDemo.New.NewMainWindow.MenuItemRegistry_Click - Registry Data
