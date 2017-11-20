@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<MALSController xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ChgStepSetValue>320</ChgStepSetValue>
+  <ChgStepPresentValue>20</ChgStepPresentValue>
+  <CoaxialOnTimeSetValue>0</CoaxialOnTimeSetValue>
+  <CoaxialOnTimePresentValue>0</CoaxialOnTimePresentValue>
+  <RingOnTimeSetValue>0</RingOnTimeSetValue>
+  <RIngOnTimePresentValue>0</RIngOnTimePresentValue>
+  <TextBlockTriggerSignalPresentValue>0</TextBlockTriggerSignalPresentValue>
+  <TriggerSignal2SetStepValue>0</TriggerSignal2SetStepValue>
+  <TriggerSignal4SetStepValue>0</TriggerSignal4SetStepValue>
+  <TriggerSignal5SetStepValue>0</TriggerSignal5SetStepValue>
+  <TriggerDelayTimeSetTimeValue>0</TriggerDelayTimeSetTimeValue>
+  <TriggerDelayTimePresentValue>0</TriggerDelayTimePresentValue>
+  <TriggerHoldTimeSetTimeValue>0</TriggerHoldTimeSetTimeValue>
+  <TriggerHoldTimePresentValue>0</TriggerHoldTimePresentValue>
+  <ImageCaptureSetStepValue>0</ImageCaptureSetStepValue>
+  <StepForCapturePresentValue>0</StepForCapturePresentValue>
+</MALSController>
