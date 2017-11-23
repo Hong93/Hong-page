@@ -4,7 +4,7 @@
 <link href="style.css" rel="stylesheet"/>  
 <script src="app.js"></script>  
 <head>  
-    <title>rda213fasdf</title>
+    <title>Hi</title>
 </head>  
 <body>  
 <h1>This page is saltfactory's github page</h1>  
